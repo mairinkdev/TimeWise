@@ -1,0 +1,7 @@
+com\timewise\backend\controller\HealthController.class
+com\timewise\backend\controller\UserController.class
+com\timewise\backend\model\User$UserBuilder.class
+com\timewise\backend\model\User.class
+com\timewise\backend\repository\UserRepository.class
+com\timewise\backend\BackendApplication.class
+com\timewise\backend\config\SecurityConfig.class
